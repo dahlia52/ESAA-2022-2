@@ -12,7 +12,6 @@
 
 
   ## Projects
-  - 병원 개/폐업 분류 예측 경진대회 (https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fdahlia52%2FESAA_OB%2Fmain%2FProject%2FOB-team2-project1-PPT.pptx&wdOrigin=BROWSELINK)
-  - 발화자의 감성인식 AI 경진대회 (https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fdahlia52%2FESAA_OB%2Fmain%2FProject%2FOB-team2-project2-final-presentation.pptx&wdOrigin=BROWSELINK)
-  - 
-  - Stress Detection on Social Media Posts (https://github.com/dahlia52/ESAA_OB/blob/main/Project/OB-team2-project3-final-presentation.pdf)
+  - [병원 개/폐업 분류 예측 경진대회](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fdahlia52%2FESAA_OB%2Fmain%2FProject%2FOB-team2-project1-PPT.pptx&wdOrigin=BROWSELINK)
+  - [발화자의 감성인식 AI 경진대회](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fdahlia52%2FESAA_OB%2Fmain%2FProject%2FOB-team2-project2-final-presentation.pptx&wdOrigin=BROWSELINK)
+  - [Stress Detection on Social Media Posts](https://github.com/dahlia52/ESAA_OB/blob/main/Project/OB-team2-project3-final-presentation.pdf)
